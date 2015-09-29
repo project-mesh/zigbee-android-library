@@ -5,5 +5,4 @@ To use use the test library, compile JNI library C file into the appropriate fil
 ###Linux:<br>ls
 ###Mac OS X:<br>
 `gcc/clang -o lib<LIBRARY NAME>.jnilib -lc -shared <LIBRARY NAME>.c`
-
     
